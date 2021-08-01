@@ -1,0 +1,21 @@
+* { /* alle Elemente */
+    padding: 0;
+    margin: 0;
+    
+    font-size: 62.5%;
+    font-family: 'Work Sans', sans-serif;
+
+    box-sizing: border-box;
+} /* ------------------ */
+
+body {
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
