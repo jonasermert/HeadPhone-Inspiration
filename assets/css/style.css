@@ -395,7 +395,3 @@ li {
         height: 100vh;
     }
     
-    /* damit der Link, wenn er geklickt wurde, die Farbe behält */
-    .active {
-        border:1px solid #ebccc2;
-    }
