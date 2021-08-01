@@ -171,5 +171,85 @@ li {
     height: 100%;
 }
 
+.inspiration-block {
+    width:100%;
+    height: 50%;
+    margin-top: 5%;
 
+}
+
+.inspiration-img {
+    width:100%;
+    height: 100%;
+}
+
+.inspiration-flex {
+    width:70%;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.inspiration-2 {
+    margin: 10% 0;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.inspiration-subtitle {
+    color: #ebccc2;
+    font-size: 2rem;
+    font-weight: 300;
+}
+
+.inspiration-title {
+    color: #ebccc2;
+    font-size: 3.5rem;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+
+.inspiration-btn {
+    outline:none;
+    border:1px solid #ebccc2;
+    background: rgba(0,0,0,0);
+    color: #867772;
+    padding: 5px 20px;
+    font-size: 1.2rem;
+    margin-left: 5px;
+    letter-spacing: 1px;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+.inspiration-paragraph {
+    color:#867772;
+    font-size: 1.6rem;
+    font-weight: 300;
+}
+
+.inspiration-3 {
+    width:100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.inspiration-3-a, .inspiration-3-b {
+    width:100%;
+    display: flex;
+}
+
+.inspiration-3-img {
+    width:50%;
+    height: 40%;
+}
+
+
+.inspiration-article {
+    align-self: center;
+    margin-left: 30px;
+}
 
