@@ -36,3 +36,54 @@ li {
     flex:50%;
 }
 
+.menu {
+    display: flex;
+    align-items: center;
+    flex:35%;
+    justify-content: space-around;
+}
+
+.menu-link {
+    color:#867772;
+    transition: all .5s ease-out;
+    font-size: 1.3rem;
+    /* 
+    https://wiki.selfhtml.org/wiki/CSS/Tutorials/Animation/Transition 
+    
+    Rem (Root em) verhält sich in der Größendefinition gleich wie die Einheit em, 
+    mit dem einzigen Unterschied, dass sie sich an dem Root-Element (html, body) orientiert
+    
+    */
+    
+}
+
+.menu-link:last-of-type {
+    align-self: flex-end;
+}
+
+.menu-link:hover {
+    color: rgb(234, 204, 194);
+    border-bottom: 1px solid rgb(234, 204, 194);
+}
+
+.heading {
+    color:rgb(234, 204, 194);
+    width:30%;
+    margin: 10% 0;
+    font-size: 4rem;
+    font-weight: 300;
+    
+}
+
+.header-block {
+    height: 100vh;
+    width:90%;
+    
+}
+
+.header-img {
+    width:100%;
+    height: 100%;
+}
+
+
