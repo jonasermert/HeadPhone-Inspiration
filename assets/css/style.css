@@ -29,3 +29,10 @@ li {
     align-items: center;
     margin-bottom: -200px;
 }
+
+.logo-block {
+    margin-top: 15px; 
+    margin-right: 30px;
+    flex:50%;
+}
+
