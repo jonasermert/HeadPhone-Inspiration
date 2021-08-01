@@ -253,3 +253,30 @@ li {
     margin-left: 30px;
 }
 
+.order {
+    order: 1;
+}
+
+.inspiration-3-b .inspiration-3-img {
+    margin-left: 120px;
+}
+
+.shop {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.shop-subtitle {
+    margin-bottom: 20px;
+}
+
+
+.shop-btn {
+    padding: 10px 20px;
+    background: #ebccc2;
+    font-size: 1.1rem;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
