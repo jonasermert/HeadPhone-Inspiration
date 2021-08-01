@@ -1,3 +1,8 @@
+
+VZ-FS-21-02
+Fullstack Bootcamp
+
+
 Aufgabenstellung
 
 Unser Kunde ist heute ein Kopfhörerhersteller. Sie wollen expandieren und brauchen deshalb eine Website.
