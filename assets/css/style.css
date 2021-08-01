@@ -16,6 +16,12 @@ a {
     text-decoration: none;
 }
 
+/* damit der Link, wenn er geklickt wurde, die Farbe behält */
+.active {
+    border:1px solid #ebccc2;
+}
+
+
 li {
     list-style: none;
 }
@@ -85,5 +91,31 @@ li {
     width:100%;
     height: 100%;
 }
+
+.article {
+    order:1;
+    width: 35%;
+ }
+ 
+ .article-subtitle {
+     color: rgb(234, 204, 194);
+     font-size: 2rem;
+     font-weight: 300;
+     margin-bottom: 20px;
+ }
+ 
+ .article-title {
+     color: rgb(234, 204, 194);
+     font-size: 3.5rem;
+     font-weight: 300;
+     margin-bottom: 20px;
+ }
+ 
+ .article-paragraph {
+     color: #867772;
+     font-size: 1.4rem;
+     line-height: 1.7;
+ }
+
 
 
